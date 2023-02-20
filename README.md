@@ -1,4 +1,4 @@
-# Web Dev Text Replacements for TextExpander (macOS and Windows app)
+# Text Expansions - TextExpander
 
 For [TextExpander](https://textexpander.com/), you need to go to your account profile on the web site, then choose 'Import/Export'. There you can add files that will be imported in to your library as snippets.
 
